@@ -1,3 +1,5 @@
+// models/Video.ts
+
 import mongoose, { model, models, Schema } from "mongoose";
 
 export const VIDEO_DIMENSIONS = {
